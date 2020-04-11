@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444060919626",
+    "firebase_url": "https://tiket-af479.firebaseio.com",
+    "project_id": "tiket-af479",
+    "storage_bucket": "tiket-af479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444060919626:android:75f2bd91089cb3b6a203b3",
+        "android_client_info": {
+          "package_name": "com.example.tiket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444060919626-7ovnif57jf6hgsegmgn8p3g37tf8umqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiket",
+            "certificate_hash": "fc38539f09af57a5c60417fb421710e34405ddce"
+          }
+        },
+        {
+          "client_id": "444060919626-j68rti8ojfhp937i2pja53ksm93uoi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR-4ZJnTaDJu_A2IhD3EgSa3ucfCUZPm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444060919626-j68rti8ojfhp937i2pja53ksm93uoi56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
